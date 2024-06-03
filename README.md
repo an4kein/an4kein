@@ -1,5 +1,5 @@
 <h1 align="center">Eduardo Barbosa (anakein)</h1>
-<h3 align="center">Pentester - Youtuber - Linux User - Bug hunter - Software Dev - CTF player</h3>
+<h3 align="center">Red Team Ops - Purple Team - Pentester - Youtuber - Linux User - Bug hunter - Software Dev - CTF player</h3>
 
 - 📝 My articles [http://an4kein.github.io/](http://an4kein.github.io/)
 - 🔋  Hack The Box - Profile [https://app.hackthebox.com/profile/31881](https://app.hackthebox.com/profile/31881)
