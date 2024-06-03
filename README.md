@@ -2,7 +2,7 @@
 <h3 align="center">Pentester - Youtuber - Linux User - Bug hunter - Software Dev - CTF player</h3>
 
 - 📝 My articles [http://an4kein.github.io/](http://an4kein.github.io/)
-- 🔋  Hack The Box - Profile [https://www.hackthebox.eu/profile/31881](https://www.hackthebox.eu/profile/31881)
+- 🔋  Hack The Box - Profile [https://app.hackthebox.com/profile/31881](https://app.hackthebox.com/profile/31881)
 - 🎬 Youtube Channel [https://youtube.com/an4kein](https://youtube.com/an4kein)
 - 🏆 Linkedin [https://www.linkedin.com/in/an4kein/](https://www.linkedin.com/in/0x00an4kein/)
 - ✉️ Email anakein@protonmail.ch
