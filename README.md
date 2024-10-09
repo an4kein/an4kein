@@ -8,10 +8,8 @@
 - ✉️ Email anakein@protonmail.ch
 - 📲 Twitter [https://twitter.com/an4kein](https://twitter.com/an4kein)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=an4kein&show_icons=true&theme=transparent)
 
-[![arisu-coder github stats](https://github-readme-stats.vercel.app/api?username=an4kein&theme=chartreuse-dark&show_icons=true&include_all_commits=true)](https://github.com/an4kein/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=an4kein&hide=javascript,html,php,css&langs_count=9&theme=chartreuse-dark&layout=compact)](https://github.com/an4kein/github-readme-stats)
 
 <!--
 **an4kein/an4kein** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
